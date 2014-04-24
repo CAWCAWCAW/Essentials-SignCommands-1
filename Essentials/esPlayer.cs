@@ -64,6 +64,7 @@ namespace Essentials
 			this.TSPlayer.SetBuff(33, 330, true); //Weak
 			this.TSPlayer.SetBuff(32, 330, true); //Slow
 			this.TSPlayer.SetBuff(23, 330, true); //Cursed
+			this.TSPlayer.SetBuff(47, 330, true); //Frozen
 		}
 	}
 	public enum BackAction
