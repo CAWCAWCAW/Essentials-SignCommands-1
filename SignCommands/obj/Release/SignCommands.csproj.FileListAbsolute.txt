@@ -1,0 +1,3 @@
+C:\Users\Austin\Documents\GitHub\Essentials-SignCommands-1\Build\SignCommands.dll
+C:\Users\Austin\Documents\GitHub\Essentials-SignCommands-1\SignCommands\obj\Release\SignCommands.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Documents\GitHub\Essentials-SignCommands-1\SignCommands\obj\Release\SignCommands.dll
